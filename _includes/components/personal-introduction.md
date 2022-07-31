@@ -1,0 +1,1 @@
+I am hard-working and capable student currently in my 4th and final year of persuing my undergraduate degree in Mechatronic engineering from the University of Cape Town. 
