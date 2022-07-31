@@ -1,20 +1,14 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
-  icon: entypo/github.svg
 
-- caption: Stack Overflow
-  href: https://stackoverflow.com
-  icon: icons/stackoverflow.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
+- caption: GitHub
+  href: https://github.com/DillBaggins
+  icon: icons/location-pin.svg
 
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
+- caption: LinkedIn
+  href: https://www.linkedin.com/in/dylan-white-158b14241/
+  icon: icons/location-pin.svg
 
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Cape Town
+  href: https://www.google.com/maps/place/University+of+Cape+Town/@-33.9712937,18.4698482,14.46z/data=!4m5!3m4!1s0x1dcc5d22b778b401:0x5f90e4dc19b5fa4e!8m2!3d-33.957653!4d18.4611994
   icon: entypo/location-pin.svg
 
