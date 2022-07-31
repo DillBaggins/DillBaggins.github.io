@@ -2,12 +2,14 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Welcome to My Personal Portfolio
 ---
+This site exists to show-off some of my work as well as anything I might find interesting and worth sharing
 
-## What is it?
+## Who am I?
+{% include components/personal-introduction.md %}
 
-{% include components/intro.md %}
+Feel free to [read more about me]({{ site.baseurl}}{% link _pages/about.md %}), peruse my CV or reach out to me
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
