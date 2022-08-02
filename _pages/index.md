@@ -9,7 +9,7 @@ This site exists to show-off some of my work as well as anything I might find in
 ## Who am I?
 {% include components/personal-introduction.md %}
 
-Feel free to [read more about me]({{ site.baseurl}}{% link _pages/about.md %}), peruse my CV or reach out to me
+Feel free to [read more about me]({{ site.baseurl}}{% link _pages/about.md %}), peruse my [CV]({{ site.baseurl}}{% link _pages/CV.md %}) or reach out to me
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
