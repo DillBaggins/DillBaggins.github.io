@@ -9,7 +9,6 @@ tags:
 
 Here's how to put a single image into a post, using a Bootstrap 4 card. This shows how to mingle Markdown with HTML, too.
 
-<!--more-->
 
 The card allows a caption to be aligned with the photo, and the card classes contain a `card-img-top` that ensures the image is responsive within the grid.
 
@@ -21,6 +20,9 @@ The card allows a caption to be aligned with the photo, and the card classes con
         </div>
     </div>
 </div>
+
+
+<!--more-->
 
 The HTML source for this card is below, or of course you could look at the raw source for this file in the GitHub repo or on your disk after you have downloaded the repo. WHen looking at the source, you can see the Markdown mingled with the HTML.
 
