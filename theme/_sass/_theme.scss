@@ -24,6 +24,10 @@
     fill: #A00;
 }
 
+.icon.green svg path {
+    fill: #339f2e 
+}
+
 .list-title {
     text-transform: uppercase;
     font-weight: 300;
@@ -66,3 +70,32 @@ h2[id]::before {
     }
 }
 
+.container{
+    display: flex;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.left li{
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+.list {
+    list-style: none;
+}
+
+br {
+    display: block;
+    margin: 10px 0;
+ }
