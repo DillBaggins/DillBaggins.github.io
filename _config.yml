@@ -17,7 +17,7 @@ avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages", "_portfolio","docs"]
 
 # Wire in the SASS files in the theme directory.
 sass:
