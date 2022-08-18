@@ -8,13 +8,11 @@ tags:
   - Feedback Linearisation
   - Modelling
 images:
-  - \theme\img\images\warehouse-manipulator\introImage.PNG
   - \theme\img\images\warehouse-manipulator\wholeModel.PNG
-  - \theme\img\images\warehouse-manipulator\giphy.gif
   
 ---
 <div class="card mb-3">
-    <img class="img-thumbnail" src="\theme\img\images\warehouse-manipulator\introImage.PNG"/>
+    <img class="img-thumbnail" src="\theme\img\images\warehouse-manipulator\demo.gif"/>
     <div class="card-body bg-light">
     </div>
 </div>
