@@ -74,24 +74,6 @@ images:
 </span>
 </p>
 
-<p class="d-flex align-items-center indent flex-md-column">
-  <b>□ CSS</b>
-<span class="icon green ml-2 flex-md-column">
-  {% include entypo/check.svg %}
-</span>
-<span class="icon green ml-2">
-  {% include entypo/check.svg %}
-</span>
-<span class="icon green ml-2">
-  {% include entypo/check.svg %}
-</span>
-<span class="icon green ml-2">
-  {% include entypo/check.svg %}
-</span>
-<span class="icon green ml-2">
-  {% include entypo/check.svg %}
-</span>
-</p>
 
 ##### █ Electronic Circuit Design and Soldering
 ##### █ Rudimentary Embedded System Design
