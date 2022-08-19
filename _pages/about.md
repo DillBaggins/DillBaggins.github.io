@@ -44,7 +44,7 @@ I have been riding since 2017 and have fallen in love with the freedom it brings
 
 
 ## The great Outdoors 🌳🌳
-I have a great passion for being in nature. As such I am truly blessed to live in the Western Cape. In fact, easy access to the Drakensburg just about the only thing I miss from living in Johannesburg.
+I have a great passion for being in nature. As such I am truly blessed to live in the Western Cape. In fact, easy access to the Drakensburg is just about the only thing I miss from living in Johannesburg.
 <div class="card-columns">
     {% for img in page.outdoors %}
     <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
