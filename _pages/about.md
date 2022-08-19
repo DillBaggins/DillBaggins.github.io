@@ -15,6 +15,10 @@ bike_images:
   - photos\motorbikes\river crossing.jpg
   - photos\motorbikes\seanie.jpg
   - photos\motorbikes\track.jpeg
+outdoors:
+  - photos\outdoors\a.jpg
+  - photos\outdoors\b.jpg
+  - photos\outdoors\c.jpg
 
 ---
 Below, I have written about some of my personal interests and hobbies. In both my professional and personal life, I tend to find a great variety of things interesting and worth persuing so don't be surprised if this list changes frequently. 
@@ -41,6 +45,13 @@ I have been riding since 2017 and have fallen in love with the freedom it brings
 
 ## The great Outdoors 🌳🌳
 I have a great passion for being in nature. As such I am truly blessed to live in the Western Cape. In fact, easy access to the Drakensburg just about the only thing I miss from living in Johannesburg.
+<div class="card-columns">
+    {% for img in page.outdoors %}
+    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
+        <img class="card-img-top" src="{{ img }}" />
+    </div>
+    {% endfor %}
+</div>
 
 ## Skateboarding
 A very new interest of mine is skateboarding. I am appreciating the amount of work and dedication it takes to improve
