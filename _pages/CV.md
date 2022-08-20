@@ -87,6 +87,6 @@ images:
 - **December 2020- March 2021** : Electronic Engineering Intern At ThingKing, Cape Town
   - Completed Several lighting projects involving indivudually adressable LEDs using teensy microcontrollers and the Arduino environment
   - Was part of a team that built a 2 axis pen plotter using an Arduino running GRBL
-- **December 2021 - February 2022**: Software Engineering Intern at African Robotics Unit, University of Cape Town
+- **December 2021 - February 2022**: Software Engineering Intern at African Robotics Unit, UCT
   - Wrote a Python application for the display and annotation of point cloud data
 
